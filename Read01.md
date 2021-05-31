@@ -6,8 +6,8 @@
 
 
 ### Examples:
-1. `**using 2 stars before and after the sentence produces a bold format of that sentence **` :arrow_right:  **using 2 stars before and after the sentence produces a bold format of that sentence**
-2. `*using 1 star before and after the sentence produces an italic format of that sentence *` :arrow_right:  *using 1 star before and after the sentence produces an italic format of that sentence*
+1. `**using 2 stars before and after the sentence produces a bold format of that sentence **` ↪️:  **using 2 stars before and after the sentence produces a bold format of that sentence**
+2. `*using 1 star before and after the sentence produces an italic format of that sentence *` ↪️:  *using 1 star before and after the sentence produces an italic format of that sentence*
 3. we can use syntax highlighting to inset a code in a specific language like javascript without indent by four spaces.
 ```javascript
 function fancyAlert(arg) {
