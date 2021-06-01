@@ -73,6 +73,7 @@ There are a Graphical User Interface tools for Git which  users can use it inste
   ` git help cd `
 
   # Setting up a Git Repository
+<<<<<<< HEAD
    * Importing
    To import an existing project to the git we write the following commands:
 
@@ -186,6 +187,8 @@ When you clone a repository from a server Git will automatically give the name "
 `remote3 https://github.com/remote3/example (push)`
 
 
+=======
+>>>>>>> 6a7912a8baef42258b0ec9997d1671fd8ea254c3
 
 
 
