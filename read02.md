@@ -72,9 +72,9 @@ There are a Graphical User Interface tools for Git which  users can use it inste
 
   ` git help cd `
 
-  # Setting up a Git Repository
+# Setting up a Git Repository
 
-   * Importing
+ * Importing
    To import an existing project to the git we write the following commands:
 
    `cd directoryName`
