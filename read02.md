@@ -51,13 +51,13 @@ There are a Graphical User Interface tools for Git which  users can use it inste
 
 * Configuration of Variables
 
-`git config` is a tool that allows the setting of configuration variables.
+ `git config` is a tool that allows the setting of configuration variables.
 
 * Identity Setting
  To set a user name and a user email we do the following in the CLI 
- > ` git config --global user.name "Jane Smith" `
+  ` git config --global user.name "Jane Smith" `
 
-     `git config --global user.email "example@email.com" `
+   `git config --global user.email "example@email.com" `
 
 * Default Text Editor
  To set a specific text editor like emacs we write the following command :
@@ -73,7 +73,7 @@ There are a Graphical User Interface tools for Git which  users can use it inste
   ` git help cd `
 
   # Setting up a Git Repository
-<<<<<<< HEAD
+
    * Importing
    To import an existing project to the git we write the following commands:
 
@@ -135,7 +135,7 @@ To check the file state we write the following command
 1. Single File 
 To track a single file we write:
 ` git add filename`
-2. 
+2. All Files
 To tarck all files we write :
 
 ` git add *`
@@ -187,8 +187,6 @@ When you clone a repository from a server Git will automatically give the name "
 `remote3 https://github.com/remote3/example (push)`
 
 
-=======
->>>>>>> 6a7912a8baef42258b0ec9997d1671fd8ea254c3
 
 
 
