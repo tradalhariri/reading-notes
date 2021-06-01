@@ -1,5 +1,14 @@
 # reading-notes
 
+> I Trad Almelhem. I am an ambitious and creative software engineer with excellent
+mathematical background. My passion for science is endless, my love for
+programing is peerless, and my faith in a better future is doubtless.
+
+ 
+
+[This is my GitHub portfoli](https://github.com/tradalhariri)
+
+
 
 ## Growth Mindset :
 + **The growth mindset is  a concept that says : we should not be in the fixed mindset , we should work and should not give up if we had any problem.**
