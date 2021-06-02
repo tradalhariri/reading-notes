@@ -9,7 +9,9 @@ programing is peerless, and my faith in a better future is doubtless.
 [This is my GitHub portfoli](https://github.com/tradalhariri)
 
 
-| File Name   | Link                  |
-| ----------- | -----------           |
+| File Name   | Link                     |
+| ----------- | -----------              |
 | Read01      | [Link](read01.md)        |
 | Read02      | [Link](read02.md)        |
+| Lab01       | [Link](lab01.md)         |
+| README      | [Link](README.md)        |
