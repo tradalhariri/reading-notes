@@ -15,3 +15,7 @@ programing is peerless, and my faith in a better future is doubtless.
 | Read02      | [Link](read02.md)        |
 | Lab01       | [Link](lab01.md)         |
 | README      | [Link](README.md)        |
+| Read03      | [Link](read03.md)        |
+| Read04      | [Link](read04.md)        |
+| Read06      | [Link](read06.md)        |
+| Read07      | [Link](read07.md)        |
