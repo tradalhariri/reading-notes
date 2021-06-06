@@ -19,3 +19,4 @@ programing is peerless, and my faith in a better future is doubtless.
 | Read04      | [Link](read04.md)        |
 | Read06      | [Link](read06.md)        |
 | Read07      | [Link](read07.md)        |
+| Read08      | [Link](read08.md)        |
