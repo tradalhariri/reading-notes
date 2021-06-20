@@ -10,23 +10,23 @@ programing is peerless, and my faith in a better future is doubtless.
 
 # Code 102 Reading Notes
 
-| File Name   | Link                     |
-| ----------- | -----------              |
-| Read01      | [Link](read01.md)        |
-| Read02      | [Link](read02.md)        |
-| Lab01       | [Link](lab01.md)         |
-| README      | [Link](README.md)        |
-| Read03      | [Link](read03.md)        |
-| Read04      | [Link](read04.md)        |
-| Read06      | [Link](read06.md)        |
-| Read07      | [Link](read07.md)        |
-| Read08      | [Link](read08.md)        |
+| File Name   | Link                         |
+| ----------- | -----------                  |
+| Read01      | [Link](102/read01.md)        |
+| Read02      | [Link](102/read02.md)        |
+| Lab01       | [Link](102/lab01.md)         |
+| README      | [Link](102/README.md)        |
+| Read03      | [Link](102/read03.md)        |
+| Read04      | [Link](102/read04.md)        |
+| Read06      | [Link](102/read06.md)        |
+| Read07      | [Link](102/read07.md)        |
+| Read08      | [Link](102/read08.md)        |
 
 
 
 # Code 201 Reading Notes
 
-| File Name   | Link                  |
-| ----------- | -----------           |
-| class-01.md | [Link](class-01.md)   |
+| File Name   | Link                      |
+| ----------- | -----------               |
+| class01     | [Link](201/class-01.md)   |
 

@@ -128,10 +128,52 @@ trunk/html5.js"></script>
 
 # HTML Chapter 18 - Process & Design
 
+* It is important before you begin building a website  knowing which category of people you are targeting and what the features you will add in the website making that category visit the website frequently.
+
+* Wireframe can help you to draw initial guess of the website .
+
+* if you have a good design then be confident that your message has reached. 
+
+
+
+
 
 # Introduction
 
+* JavaScript allows you to build an interactive website
+
+* you can use javascript to access the content for example you can access all `h1` tags.
+
+* Javascript allows you to modify content for example you can add element after element or you can add attribute to a specific element.
+
+* Javascript allows you to make your website reponds to event such as do somthing when the button is pressed.
+
+
+
 # JS Chapter 1 - The ABC of Programming
+
+* What is a script : The script is a set of steps that the computer run them to acheive a goal.
+
+to write a script you should follow these steps
+
+  1. DEFINE THE GOAL : determin what your goal of the script or what the result you expect.
+
+  2. DESIGN THE SCRIPT : you should divide the whole script into tasks using maybe flowchart to make it is easier to acheive your goal.
+
+  3. CODE EACH STEP : then you need to code each steps in a programming language like javascript.
+
+* How do the computers fit in with the world around them :
+
+  1. computer creates models of the world using data.
+
+  2. we can creates many objects from the model which has properities and methods on these properities and event that triggered when you interact with computer.
+
+  3. web browser can create an object for a webpage using HTML markup and each element is an object .
+  
+  4. to make a website interactive you write a code to interact with the browser object webpage.
+
+  
+
 
 
 
