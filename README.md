@@ -32,4 +32,5 @@ programing is peerless, and my faith in a better future is doubtless.
 | class02     | [Link](201/class-02.md)   |
 | class03     | [Link](201/class-03.md)   |
 | class04     | [Link](201/class-04.md)   |
+| class05     | [Link](201/class-05.md)   |
 
