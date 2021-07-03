@@ -38,5 +38,7 @@ programing is peerless, and my faith in a better future is doubtless.
 | class08     | [Link](201/class-08.md)   |
 | class09     | [Link](201/class-09.md)   |
 | class10     | [Link](201/class-10.md)   |
+| class11     | [Link](201/class-11.md)   |
+
 
 
