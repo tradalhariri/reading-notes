@@ -42,6 +42,7 @@ programing is peerless, and my faith in a better future is doubtless.
 | class12     | [Link](201/class-12.md)   |
 | class13     | [Link](201/class-13.md)   |
 | class14a    | [Link](201/class-14a.md)  |
+| class14b    | [Link](201/class-14b.md)  |
 
 
 
