@@ -1,14 +1,14 @@
-# reading-notes
+# Reading Notes
 
 > I am Trad Almelhem. I am an ambitious and creative software engineer with excellent
 mathematical background. My passion for science is endless, my love for
 programing is peerless, and my faith in a better future is doubtless.
 
- 
+This website is about summarizing the most important information I gained through the codefellows bootcamp
 
 [This is my GitHub portfoli](https://github.com/tradalhariri)
 
-# Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 | File Name   | Link                         |
 | ----------- | -----------                  |
@@ -24,7 +24,7 @@ programing is peerless, and my faith in a better future is doubtless.
 
 
 
-# Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 | File Name   | Link                      |
 | ----------- | -----------               |
@@ -43,6 +43,9 @@ programing is peerless, and my faith in a better future is doubtless.
 | class13     | [Link](201/class-13.md)   |
 | class14a    | [Link](201/class-14a.md)  |
 | class14b    | [Link](201/class-14b.md)  |
+
+
+## Code 301 - Intermediate Software Development
 
 
 
