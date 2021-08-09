@@ -51,6 +51,7 @@ This website is about summarizing the most important information I gained throug
 | ----------- | -----------               |
 | class01     | [Link](301/class-01.md)   |
 | class02     | [Link](301/class-02.md)   |
+| class03     | [Link](301/class-03.md)   |
 
 
 
