@@ -59,6 +59,8 @@ This website is about summarizing the most important information I gained throug
 | class08     | [Link](301/class-08.md)   |
 | class09     | [Link](301/class-09.md)   |
 | class10     | [Link](301/class-10.md)   |
+| class11     | [Link](301/class-11.md)   |
+
 
 
 
