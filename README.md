@@ -68,7 +68,7 @@ This website is about summarizing the most important information I gained throug
 
 | Topic Name   | Link                      |
 | -----------  | -----------               |
-| class01      | [Link](401/class01.md)    |
+| class01      | [Link](401/class-01.md)    |
 
 
 
