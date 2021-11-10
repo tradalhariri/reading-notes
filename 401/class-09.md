@@ -4,13 +4,10 @@
 - The best example is `__init__` which is used to create instances of the class.
 ```python
 class Account:
-    """A simple account class"""
+   
 
     def __init__(self, owner, amount=0):
-        """
-        This is the constructor that lets us create
-        objects from this class
-        """
+       
         self.owner = owner
         self.amount = amount
         self._transactions = []
@@ -27,13 +24,13 @@ class Account:
         return 'Account of {} with starting amount: {}'.format(
             self.owner, self.amount)
 str(acc)
-'Account of bob with starting amount: 10'
+Account of bob with starting amount: 10
 
 print(acc)
-"Account of bob with starting amount: 10"
+Account of bob with starting amount: 10
 
 repr(acc)
-"Account('bob', 10)"
+Account('bob', 10)
 ```
 
 - we can also make the object iterable using `__len__, __getitem__, __reversed__`:
