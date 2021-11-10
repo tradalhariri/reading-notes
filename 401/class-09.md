@@ -34,10 +34,11 @@ Account('bob', 10)
 
 ```
 
-- we can also make the object iterable using `__len__, __getitem__, __reversed__`:
+we can also make the object iterable using `__len__, __getitem__, __reversed__`:
 -----
 
 ```python
+
 class Account:
     # ... (see above)
     def add_transaction(self, amount):
