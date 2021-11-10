@@ -26,13 +26,13 @@ class Account:
     def __str__(self):
         return 'Account of {} with starting amount: {}'.format(
             self.owner, self.amount)
->>> str(acc)
+str(acc)
 'Account of bob with starting amount: 10'
 
->>> print(acc)
+print(acc)
 "Account of bob with starting amount: 10"
 
->>> repr(acc)
+repr(acc)
 "Account('bob', 10)"
 ```
 
@@ -52,25 +52,25 @@ class Account:
     def __getitem__(self, position):
         return self._transactions[position]
 
->>> acc = Account('bob', 10)
+acc = Account('bob', 10)
 
->>> acc.add_transaction(20)
->>> acc.add_transaction(-10)
->>> acc.add_transaction(50)
->>> acc.add_transaction(-20)
->>> acc.add_transaction(30)
->>> len(acc)
+acc.add_transaction(20)
+acc.add_transaction(-10)
+acc.add_transaction(50)
+acc.add_transaction(-20)
+acc.add_transaction(30)
+len(acc)
 5
 
->>> for t in acc:
-...    print(t)
+for t in acc:
+  print(t)
 20
 -10
 50
 -20
 30
 
->>> acc[1]
+acc[1]
 -10
 ```
 
