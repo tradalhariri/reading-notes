@@ -31,9 +31,11 @@ Account of bob with starting amount: 10
 
 repr(acc)
 Account('bob', 10)
+
 ```
 
 - we can also make the object iterable using `__len__, __getitem__, __reversed__`:
+-----
 
 ```python
 class Account:
@@ -69,6 +71,7 @@ for t in acc:
 
 acc[1]
 -10
+
 ```
 
 - conclusion: dunder methods are more powerful when we want to customize our objects.
