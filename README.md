@@ -77,6 +77,8 @@ This website is about summarizing the most important information I gained throug
 | class07      | [Link](401/class-07.md)    |
 | class08      | [Link](401/class-08.md)    |
 | class09      | [Link](401/class-09.md)    |
+| class10      | [Link](401/class-10.md)    |
+
 
 
 
