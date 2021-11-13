@@ -80,6 +80,7 @@ This website is about summarizing the most important information I gained throug
 | class10      | [Link](401/class-10.md)    |
 | class11      | [Link](401/class-11.md)    |
 | class12      | [Link](401/class-12.md)    |
+| class13      | [Link](401/class-13.md)    |
 
 
 
