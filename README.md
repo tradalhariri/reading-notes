@@ -88,6 +88,7 @@ This website is about summarizing the most important information I gained throug
 | class18      | [Link](401/class-18.md)    |
 | class26      | [Link](401/class-26.md)    |
 | class27      | [Link](401/class-27.md)    |
+| class28      | [Link](401/class-28.md)    |
 
 
 
