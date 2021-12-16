@@ -167,4 +167,4 @@ An Adjacency matrix is represented through a 2-dimensional array. If there are n
 5. Netflix uses graphs for suggestions of products
 
 ### References
-![Graph](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/graphs.html)
+[Graph](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/graphs.html)
