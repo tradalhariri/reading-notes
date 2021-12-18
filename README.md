@@ -96,6 +96,8 @@ This website is about summarizing the most important information I gained throug
 | class33      | [Link](401/class-33.md)    |
 | class34      | [Link](401/class-34.md)    |
 | class35      | [Link](401/class-35.md)    |
+| class36      | [Link](401/class-36.md)    |
+
 
 
 
