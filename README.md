@@ -101,6 +101,10 @@ This website is about summarizing the most important information I gained throug
 | class38      | [Link](401/class-38.md)    |
 | class39      | [Link](401/class-39.md)    |
 | class40      | [Link](401/class-40.md)    |
+| class41      | [Link](401/class-41.md)    |
+| class42      | [Link](401/class-42.md)    |
+
+
 
 
 
